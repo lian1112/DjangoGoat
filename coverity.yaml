@@ -1,0 +1,5 @@
+capture:
+  build-command-inference: false
+  languages:
+    include:
+      - python
